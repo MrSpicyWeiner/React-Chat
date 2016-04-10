@@ -75,6 +75,9 @@ header #logo span {
 .comment{
 	border:5px solid red;
 }
+table{
+	width:100%;
+}
 p{
 	display:inline;
 }
