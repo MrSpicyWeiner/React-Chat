@@ -1,0 +1,492 @@
+[
+    {
+        "text": "Hi guys! Type your name and a comment to post!",
+        "id": 1460245894943,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460249432220,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "woot got it",
+        "id": 1460249646705,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "lol",
+        "id": 1460249648283,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "comment",
+        "id": 1460249667581,
+        "author": "name"
+    },
+    {
+        "text": "?",
+        "id": 1460249684656,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I didn't wanna have to do it this way but it works",
+        "id": 1460249705461,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460254034742,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "Yasss new method of scrolling is so much better",
+        "id": 1460254385288,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "you're really having fun aren't you :P",
+        "id": 1460260333336,
+        "author": "bales75"
+    },
+    {
+        "text": "should add timestamps :P",
+        "id": 1460260338391,
+        "author": "bales75"
+    },
+    {
+        "text": "yass",
+        "id": 1460260365685,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "lol",
+        "id": 1460260368052,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I will soon",
+        "id": 1460260408991,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "just wanna get the UI working",
+        "id": 1460260414193,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "somethings up with your scaling....it just barely is to large for the window",
+        "id": 1460260436877,
+        "author": "bales75"
+    },
+    {
+        "text": "horizontal and vertical scrollbars are always there",
+        "id": 1460260452336,
+        "author": "bales75"
+    },
+    {
+        "text": "Yeah i know I'm working on it",
+        "id": 1460260470594,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "lol",
+        "id": 1460260474773,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "it's really bothering me LOL  i hate scrollbars",
+        "id": 1460260527296,
+        "author": "bales75"
+    },
+    {
+        "text": "Vertical should be fixed for now lol",
+        "id": 1460260540646,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "yarp!",
+        "id": 1460260565211,
+        "author": "bales75"
+    },
+    {
+        "text": "if you need me to test anything else just ping me on gitter or discord...i think i'll get notified from either",
+        "id": 1460261056499,
+        "author": "bales75"
+    },
+    {
+        "text": "Alright thanks man lol",
+        "id": 1460261104712,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460262505012,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "looks good!  right aligned names, timestamps i like it so far",
+        "id": 1460265218864,
+        "author": "bales75"
+    },
+    {
+        "text": "Bout to add click to reply",
+        "id": 1460265248613,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460265446321,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "Testing",
+        "id": 1460265724670,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460267520459,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "i click your name and it appears for a split second and then disappears :o",
+        "id": 1460267595865,
+        "author": "bales75"
+    },
+    {
+        "text": "I know :(",
+        "id": 1460267705547,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I cant figure out how to make it stay",
+        "id": 1460267717510,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I have no idea why it's dissapearing",
+        "id": 1460267723355,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "i'm out for the night.  good luck have fun",
+        "id": 1460269327523,
+        "author": "bales75"
+    },
+    {
+        "text": "Goodnight",
+        "id": 1460269613420,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "hi test",
+        "id": 1460281703423,
+        "author": "waka"
+    },
+    {
+        "text": "testing to see if it scrolls off",
+        "id": 1460281841611,
+        "author": "waka"
+    },
+    {
+        "text": "test",
+        "id": 1460281843743,
+        "author": "waka"
+    },
+    {
+        "text": "no auto scroll down yet",
+        "id": 1460281851290,
+        "author": "waka"
+    },
+    {
+        "text": "test",
+        "id": 1460302083184,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "Test",
+        "id": 1460312489698,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test",
+        "id": 1460312493783,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "test waka",
+        "id": 1460313264965,
+        "author": "waka"
+    },
+    {
+        "text": "<",
+        "id": 1460313270056,
+        "author": "waka"
+    },
+    {
+        "text": "Yeah it works",
+        "id": 1460313306876,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "clicking names still doesnt lol",
+        "id": 1460313307343,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "...",
+        "id": 1460313487180,
+        "author": "the_phisher"
+    },
+    {
+        "text": "o wow",
+        "id": 1460313495574,
+        "author": "the_phisher"
+    },
+    {
+        "text": "?",
+        "id": 1460313501903,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "sorry",
+        "id": 1460313510212,
+        "author": "dashed"
+    },
+    {
+        "text": "test",
+        "id": 1460313516707,
+        "author": "dashed"
+    },
+    {
+        "text": "hmm there's a weird jank",
+        "id": 1460313528341,
+        "author": "dashed"
+    },
+    {
+        "text": "?",
+        "id": 1460313531035,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I'm sure it wont look right on everyones computer lol",
+        "id": 1460313550331,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "everytime i post",
+        "id": 1460313551008,
+        "author": "dashed"
+    },
+    {
+        "text": "there's a weird flicker",
+        "id": 1460313551830,
+        "author": "dashed"
+    },
+    {
+        "text": "hmm",
+        "id": 1460313561524,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "is this in react?",
+        "id": 1460313563295,
+        "author": "dashed"
+    },
+    {
+        "text": "I'm not getting it",
+        "id": 1460313566030,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "yes",
+        "id": 1460313567037,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "completely react",
+        "id": 1460313569822,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "haha i knew",
+        "id": 1460313577355,
+        "author": "dashed"
+    },
+    {
+        "text": "it",
+        "id": 1460313578941,
+        "author": "dashed"
+    },
+    {
+        "text": "the flicker might be your screen autoscrolling",
+        "id": 1460313587333,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "i heard about the react version",
+        "id": 1460313590625,
+        "author": "dashed"
+    },
+    {
+        "text": "really nice! is this on github as well?",
+        "id": 1460313602449,
+        "author": "dashed"
+    },
+    {
+        "text": "No not yet",
+        "id": 1460313606666,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "what's the backend?",
+        "id": 1460313615074,
+        "author": "dashed"
+    },
+    {
+        "text": "node.js?",
+        "id": 1460313618319,
+        "author": "dashed"
+    },
+    {
+        "text": "React.",
+        "id": 1460313619368,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "Lmao",
+        "id": 1460313621113,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "call it \"FukBird\" ;)",
+        "id": 1460313638071,
+        "author": "dashed"
+    },
+    {
+        "text": "jk",
+        "id": 1460313642182,
+        "author": "dashed"
+    },
+    {
+        "text": "It's sending and Saving via Json",
+        "id": 1460313649139,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "call it RLCS out of spite",
+        "id": 1460313655658,
+        "author": "dashed"
+    },
+    {
+        "text": "Reload",
+        "id": 1460313683120,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "ahhaha",
+        "id": 1460313709044,
+        "author": "Dashed"
+    },
+    {
+        "text": "the network requests is insane",
+        "id": 1460313725651,
+        "author": "Dashed"
+    },
+    {
+        "text": "Yeah this website is suber janky",
+        "id": 1460313730089,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "but it's my first test at a public chat mech",
+        "id": 1460313746399,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "there's like few requests every second",
+        "id": 1460313746528,
+        "author": "Dashed"
+    },
+    {
+        "text": "every 200 milliseconds",
+        "id": 1460313755072,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "I have no idea how i could fix that",
+        "id": 1460313790072,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "it's constantly looking for the updated json file",
+        "id": 1460313800341,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "With a bunch of people this will destroy my network",
+        "id": 1460313838607,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "this is on my home computer",
+        "id": 1460313843603,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "and I have 300Mb/s down 20 Up",
+        "id": 1460313854299,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "lol",
+        "id": 1460313855845,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "haha word",
+        "id": 1460313890734,
+        "author": "Dashed"
+    },
+    {
+        "text": "u made this custom?",
+        "id": 1460313914323,
+        "author": "Dashed"
+    },
+    {
+        "text": "or forked?",
+        "id": 1460313916886,
+        "author": "Dashed"
+    },
+    {
+        "text": "I just took the React example and heavily modified it",
+        "id": 1460313946528,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "Is there another version made with react?",
+        "id": 1460313965184,
+        "author": "MrSpicyWeiner"
+    },
+    {
+        "text": "none i heard of",
+        "id": 1460314063753,
+        "author": "Dashed"
+    },
+    {
+        "text": "other than thise one",
+        "id": 1460314071173,
+        "author": "Dashed"
+    },
+    {
+        "text": "btw im gonna close this one b/c of the crazy network requests xD",
+        "id": 1460314087302,
+        "author": "Dashed"
+    },
+    {
+        "text": "Alright lol",
+        "id": 1460314096534,
+        "author": "MrSpicyWeiner"
+    }
+]

@@ -1,0 +1,101 @@
+body {
+	background: #8c8c8c;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	padding:0;
+	margin:0;
+}
+h1{
+	padding:5px;
+	margin:0;
+}
+header {
+	position: relative;
+	height: 64px;
+	background-color: #212121;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+header #header-inner {
+	width: 90%;
+	max-width: 1680px;
+	margin: 0 auto;
+	height: 100%;
+}
+header #logo {
+	display: inline-block;
+	height: 100%;
+	padding: 16px 0;
+	box-sizing: border-box;
+}
+header #logo svg {
+	height: 100%;
+	fill: #fff;
+	display: inline-block;
+}
+svg:not(:root) {
+	overflow: hidden;
+}
+header #logo span {
+	vertical-align: top;
+	font-size: 32px;
+	line-height: 32px;
+	padding-left: 8px;
+	float: right;
+	display: inline-block;
+}
+.commentForm{
+	padding:2px 0px 2px 2px;
+	background: #DDD;
+}
+.commentList { 
+	overflow-Y: scroll;
+	overflow-X: hidden;
+	height: calc(100vh - 116px);
+}
+.commentTimeStamp{
+	width:90px;
+}
+.commentAuthor{
+	padding:0px 5px 0px 0px;
+	font-size: 1em;
+	font-weight: bold;
+	text-align:right;
+	width:130px;
+}
+.commentText{
+	font-size: 1em;
+}
+.commentBox{
+	background: #fff;
+	width:100%;
+	padding:0;
+	margin:0;
+}
+.comment{
+	border:5px solid red;
+}
+p{
+	display:inline;
+}
+input[type="text"] {
+	background-color: transparent;
+	border: none;
+	border-radius: 0;
+	outline: none;
+	height: 3rem;
+	padding:0px 0px 0px 1rem;
+	font-size: 1rem;
+	box-shadow: none;
+	box-sizing: content-box;
+}
+input[type="submit"]{
+	display:none;
+}
+#inputName{
+	width: 10em;
+}
+#inputText{
+	border-left: 1px solid #9e9e9e;
+	width: calc(100vw - 20em);
+}
