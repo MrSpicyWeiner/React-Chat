@@ -19,10 +19,6 @@ function addZero(i) {
 }
 var nameSet="";
 var Comment = React.createClass({
-	rawMarkup: function() {
-		var rawMarkup = marked(this.props.children.toString(), {sanitize: true});
-		return { __html: rawMarkup };
-	},
 	
 	render: function() {
 		var date = new Date(0); // The 0 there is the key, which sets the date to the epoch
@@ -38,7 +34,7 @@ var Comment = React.createClass({
 		var m = addZero(date.getMinutes());
 		var s = addZero(date.getSeconds());
 		var timeString = h + ":" + m + ":" + s + " " +  dd;
-		
+		var comment = this.props.children.toString();
 		return (
 			<tr className="comment">
 				<td className="commentTimeStamp">
@@ -52,7 +48,7 @@ var Comment = React.createClass({
 					</span>
 				</td>
 				<td className="commentText">
-					<span dangerouslySetInnerHTML={this.rawMarkup()} />
+					{comment}
 				</td>
 			</tr>
 		);
@@ -211,13 +207,11 @@ function doScroll()
 {
 	var ChatWindow=$(".commentList");
 	ChatWindow.scrollTop(ChatWindow[0].scrollHeight);
-	//console.log('scrolled');
-	
 }
 var myObserver = new MutationObserver(mutationHandler);
 //--- Add a target node to the observer. Can only add one node at a time.
 // XXX Shou: we should only need to watch childList, more can slow it down.
-$(".commentList").each(function() {
+$("tbody").each(function() {
 	myObserver.observe(this, { childList: true });
 });
 

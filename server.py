@@ -27,9 +27,11 @@ def new_message():
 
 	with open('comments.json', 'r') as file:
 		comments = json.loads(file.read())
-
+		
 	if request.method == 'POST':
 		newComment = request.form.to_dict()
+		newComment['author']=newComment['author'][:16]
+		newComment['text']=newComment['text'][:200]
 		newComment['id'] = str(int(time.time() * 1000))
 		comments.append(newComment)
 

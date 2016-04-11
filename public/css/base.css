@@ -29,7 +29,8 @@ header #logo {
 	box-sizing: border-box;
 }
 header #logo svg {
-	height: 100%;
+	height: 250%;
+	margin-top:-25px;
 	fill: #fff;
 	display: inline-block;
 }
@@ -49,6 +50,7 @@ header #logo span {
 	background: #DDD;
 }
 .commentList { 
+	background: #808080;
 	overflow-Y: scroll;
 	overflow-X: hidden;
 	height: calc(100vh - 116px);
